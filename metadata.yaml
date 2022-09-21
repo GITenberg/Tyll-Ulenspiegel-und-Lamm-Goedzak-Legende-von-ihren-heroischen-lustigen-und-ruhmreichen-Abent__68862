@@ -1,0 +1,37 @@
+_repo: Tyll-Ulenspiegel-und-Lamm-Goedzak-Legende-von-ihren-heroischen-lustigen-und-ruhmreichen-Abent__68862
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Oppel-Bronikowski, Friedrich von
+    gutenberg_agent_id: '54985'
+    url: http://www.gutenberg.org/2009/agents/54985
+creator:
+  author:
+    agent_name: Coster, Charles de
+    aliases:
+    - Coster, Charles Théodore Henri de
+    - Coster, Charles Theodore Henri de
+    - DeCoster, Charles Théodore Henri
+    birthdate: 1827
+    deathdate: 1879
+    gutenberg_agent_id: '3883'
+    url: http://www.gutenberg.org/2009/agents/3883
+    wikipedia: https://en.wikipedia.org/wiki/Charles_De_Coster
+description: ''
+gutenberg_issued: '2022-08-29'
+identifiers:
+  gutenberg: '68862'
+language: de
+pgterms:marc905: 20140713112450decoster
+pgterms:marc906: '1911'
+pgterms:marc907: de
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Eugen Diederichs,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tyll Ulenspiegel und Lamm Goedzak: Legende von ihren heroischen, lustigen
+  und ruhmreichen Abenteuern im Lande Flandern und andern Orts'
+url: http://www.gutenberg.org/ebooks/68862
