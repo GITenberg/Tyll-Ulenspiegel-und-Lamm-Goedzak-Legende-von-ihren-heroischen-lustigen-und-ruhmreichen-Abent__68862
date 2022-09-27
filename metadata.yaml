@@ -5,6 +5,9 @@ contributor:
     agent_name: Oppel-Bronikowski, Friedrich von
     gutenberg_agent_id: '54985'
     url: http://www.gutenberg.org/2009/agents/54985
+covers:
+- cover_type: archival
+  image_path: 68862-h/images/cover.jpg
 creator:
   author:
     agent_name: Coster, Charles de
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3883
     wikipedia: https://en.wikipedia.org/wiki/Charles_De_Coster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68862#Tyll-Ulenspiegel-und-Lamm-Goedzak-Legende-von-ihren-heroischen-lustigen-und-ruhmreichen-Abent_
 gutenberg_issued: '2022-08-29'
 identifiers:
   gutenberg: '68862'
